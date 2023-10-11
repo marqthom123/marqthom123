@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marqthom123
 - 👀 I’m interested in sports, games, and traveling.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on anything sports/statics related.
 - 📫 How to reach me Marquisset@icloud.com.
 
